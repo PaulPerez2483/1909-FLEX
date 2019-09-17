@@ -6,6 +6,8 @@ This is your **class repo**. Anything and everything we do in class, outside of 
 
 This is a test.
 
+cloning this version to my mac
+
 
 
 ### A Table of Our Stuff
